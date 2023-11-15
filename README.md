@@ -23,6 +23,12 @@ This project is a simple implementation of a sortable drag and drop list using H
 ## Build
 To create a production build, run `npm run build`. Vite will create a `dist` folder with the production-ready website.
 
+## Deploy
+To deploy to github, run `npm run deploy`. 
+
+## Live link
+[LINK](https://fmanimashaun.github.io/dragNDrop/)
+
 ## Code Overview
 The main logic for the sortable drag and drop functionality is contained within the `script.js` file. It uses the HTML Drag and Drop API to enable the dragging and dropping of list items. The `style.css` file contains the necessary styles for the draggable list items.
 
