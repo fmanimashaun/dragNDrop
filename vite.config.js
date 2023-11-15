@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: 'https://github.com/fmanimashaun/dragNDrop', // This line is required for the app to work on GitHub Pages.
   plugins: [],
   server: {
     host: '0.0.0.0',
